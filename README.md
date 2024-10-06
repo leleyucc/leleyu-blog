@@ -1,2 +1,4 @@
 # leleyu-blog
 blog
+
+init
