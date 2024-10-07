@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>C++简介</title>
+      <link href="/2024/10/07/CPP-%E7%AE%80%E4%BB%8B/"/>
+      <url>/2024/10/07/CPP-%E7%AE%80%E4%BB%8B/</url>
+      
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>名称<code>C++</code>来自C语言中的递增运算符<code>++</code>，该运算符将变量加1。名称<code>C++</code>表明，它是C的扩充版本。</p><p><code>C++</code>融合了3种不同的编程方式：C语言代表的过程性语言、<code>C++</code>在C语言基础上添加的类代表的面向对象语言、<code>C++</code>模板支撑的泛型编程。</p><p>在<code>C++</code>中，类是一种规范，它描述了这种新型数据格式，对象是根据这种规范构造的特定数据结构。通常，类规定了可使用哪些数据来表示对象，以及可以对这些数据执行哪些操作。</p><p>OOP是一个管理大型项目的工具，而泛型编程提供了执行常见任务（如对数据排序或合并链表）的工具。</p><h2 id="版本"><a href="#版本" class="headerlink" title="版本"></a>版本</h2><p><code>ISO/IEC 14882:1998</code>标准常被称为 <code>C++98</code>。</p><p><code>ISO/IEC 14882:2011</code>标准被称为<code>C++11</code>。</p><h2 id="C-运行步骤"><a href="#C-运行步骤" class="headerlink" title="C++运行步骤"></a>C++运行步骤</h2><ul><li>编写源代码</li><li>编译器</li><li>目标代码</li><li>链接程序（启动代码+库代码）</li><li>可执行代码</li></ul><p>最初，Stroustrup实现<code>C++</code>时，使用了一个<code>C++</code>到C的编译器程序，而不是开发直接的<code>C++</code>到目标代码的编译器。 前者叫做<code>cfront</code>（表示C前端，C front end），它将C++源代码翻译成C源代码，然后使用一个标准C编译器对其进行编译。</p><p>随着<code>C++</code>的日渐普及，越来越多的实现转向创建<code>C++</code>编译器，直接将<code>C++</code>源代码生成目标代码。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>

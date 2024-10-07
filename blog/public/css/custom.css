@@ -1,0 +1,10 @@
+#page-header {
+	background: url(https://leleyu.life/images/page-header.jpg)
+}
+
+#footer {
+	background-color: var(--grey-5);
+}
+#footer-wrap a {
+	color: var(--dark-grey);
+}
